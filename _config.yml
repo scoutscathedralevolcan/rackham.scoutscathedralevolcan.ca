@@ -1,0 +1,5 @@
+# Site settings
+url: "https://rackham.scoutscathedralevolcan.ca/"
+
+# Build settings
+markdown: kramdown
