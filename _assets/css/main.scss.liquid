@@ -1,0 +1,76 @@
+@charset "utf-8";
+
+// Our variables
+$base-font-family: {{ site.data.fonts.primary-font }};
+$secondary-font-family: {{ site.data.fonts.secondary-font }};
+$menu-font-family:  {{ site.data.fonts.menu-font }};
+$base-font-size:   16px;
+$small-font-size:  $base-font-size * 0.875;
+$base-line-height: 1.5;
+
+$spacing-unit:     30px;
+
+$text-color:        {{ site.data.colors.primary-text-color }};
+$secondary-text-color:  {{ site.data.colors.secondary-text-color }};
+
+$brand-color:       {{ site.data.colors.brand-color }};
+$muted-color:       {{ site.data.colors.muted-color }};
+
+$grey-color:        #828282;
+$grey-color-light:  lighten($grey-color, 40%);
+$grey-color-dark:   darken($grey-color, 25%);
+
+$links-base-color:       {{ site.data.colors.links-base-color }};
+$links-interact-color:   {{ site.data.colors.links-interact-color }};
+
+$menu-primary-color:  {{ site.data.colors.menu-primary-color }};
+$menu-secondary-color: {{ site.data.colors.menu-secondary-color }};
+$menu-background-color: {{ site.data.colors.menu-background-color }};
+$menu-background-color-over:  {{ site.data.colors.menu-background-color-over }};
+
+$background-color:  {{ site.data.colors.background-color }};
+$section-a-background-color:      {{ site.data.colors.section-a-background }};
+$section-b-background-color:      {{ site.data.colors.section-b-background }};
+
+$latest-actu-background-color: $background-color;
+
+$footer-background-color:   {{ site.data.colors.footer-background-color }};
+$footer-text-color: {{ site.data.colors.footer-text-color }};
+
+
+// Width of the content area
+$on-palm-width:           600px;
+$max-palm-width:    768px;
+$on-more-than-palm-width: 769px;
+$funding-progress:  {{ site.data.funding.raised | times: 100 | divided_by: site.data.funding.goal }}% ;
+
+
+// Using media queries with like this:
+// @include media-query($on-palm) {
+//     .wrapper {
+//         padding-right: $spacing-unit / 2;
+//         padding-left: $spacing-unit / 2;
+//     }
+// }
+@mixin media-query($device) {
+    @media screen and (max-width: $device) {
+        @content;
+    }
+}
+
+
+// Import partials from `` (defaults to `_sass`)
+@import
+        "bootstrap.min",
+        "syntax-highlighting",
+        "base",
+        "nav",
+        "content",
+        "home-page",
+        "thermometer",
+        "footer",
+        "actu",
+        "selena",
+        "fullcalendar",
+        "contact-form"
+;

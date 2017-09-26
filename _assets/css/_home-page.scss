@@ -1,0 +1,116 @@
+#home {
+    min-height:480px;
+    min-width:320px;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+}
+#home::after {
+    content: "";
+    background-image: url(/img/web-background.png);
+    background-size: contain;
+    background-repeat:   no-repeat;
+    background-position: center center;
+    opacity: 0.5;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    position: absolute;
+    z-index: -1;
+}
+
+homesection {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+}
+
+@media(max-width:$on-more-than-palm-width) {
+    homesection {
+        padding-top: 85px;
+        padding-bottom: 85px;
+    }
+}
+
+@media(min-width:$on-more-than-palm-width) {
+    homesection {
+        padding-top: 175px;
+        padding-bottom: 175px;
+    }
+}
+
+homesection h2.section-heading {
+    margin-top: 0;
+    margin-bottom: 50px;
+    font-size: 40px;
+}
+
+.homeSectionA {
+    background: url('../img/noisy_texture_a.png') repeat 0 0 #000000;
+}
+
+.homeSectionB {
+    background: url('../img/noisy_texture_b.png') repeat 0 0 #330000;
+}
+
+#outer{
+    position: relative;
+    width:100%;
+    min-height:480px;
+    min-width:320px;
+    height: 100vh;
+}
+#title{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+}
+#title  h1{
+    text-align: center;
+    font-size: 45;
+}
+#info {
+    position: absolute;
+    text-align: right;
+    bottom: 2%;
+    left: 2%;
+}
+#info a {
+    color: rgb(150,0,0);
+    font-size: 30;
+}
+#info a:hover {
+    color: rgb(255,0,0);
+    font-size: 30;
+}
+#logo-groupe {
+    position: absolute;
+    text-align: right;
+    bottom: 2%;
+    right: 2%;
+}
+.icon-spin:hover a:hover svg {
+    -moz-animation: spinHorizontal .5s  linear;
+    -o-animation: spinHorizontal .5s linear;
+    -webkit-animation: spinHorizontal .5s linear;
+    animation: spinHorizontal .5s linear;
+    }
+@-webkit-keyframes spinHorizontal { 0% { transform: rotateY(0deg); } 100% { transform: rotateY(-360deg); } }
+@-mox-keyframes spinHorizontal { 0% { transform: rotateY(0deg); } 100% { transform: rotateY(-360deg); } }
+@-o-keyframes spinHorizontal { 0% { transform: rotateY(0deg); } 100% { transform: rotateY(-360deg); } }
+@keyframes spinHorizontal { 0% { transform: rotateY(0deg); } 100% { transform: rotateY(-360deg); } }
+.logo {
+        width:200px;
+        height:200px;
+}
+@media (max-width: 800px){
+    #outer {
+        text-align: center;
+    }
+    .logo {
+        width:100px;
+        height:100px;
+    }
+}

@@ -1,0 +1,50 @@
+---
+layout: page
+---
+
+<p class="rss-subscribe">Suivez nos dernière nouvelles <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
+
+{% if site.posts.size > 0 %}
+<div class="actu-post-list">
+{% for post in paginator.posts %}
+  <figure class="actu-post">
+    <a href="{{ post.url }}">
+      <h1 class="actu-post-title">{{ post.title }}</h1>
+    </a>
+    <ul class="actu-list-inline actu-item-details">
+      <li>
+	Date: <strong> {{ post.date | date: "%Y-%m-%d" }} </strong>
+      </li>
+      {% if post.author %}
+      <li>
+	Auteur: <strong> {{ post.author }} </strong>
+      </li>
+      {% endif %}
+    </ul>
+    {% if post.header-img %}
+    <div class='actu-post-icon'>
+	<a href="{{ post.url }}">
+	  <img src="{{ post.header-img }}">
+	</a>
+    </div>
+    {% endif %}
+    <article>
+        {{ post.content | truncatewords:30 | strip_html }} <a href="{{ post.url }}">Lire la suite</a>
+    </article>
+  </figure>		
+{% endfor %}
+</div>
+
+<!-- Pagination links -->
+<div class="paginationnav">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path }}/" class="previous">Previous</a>
+  {% endif %}
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path }}/" class="next">Next</a>
+  {% endif %}
+</div>
+{% else %}
+  <p>Aucune nouvelle à afficher pour l'instant, revenez plus tard!</p>
+{% endif %}

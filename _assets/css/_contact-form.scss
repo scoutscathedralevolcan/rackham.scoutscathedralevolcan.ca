@@ -1,0 +1,56 @@
+.contact-form-success {
+    color: rgb(190,255,190);
+    min-height: 70px;
+    width: 100%;
+    vertical-align: center;
+}
+
+.contact-form-faillure {
+    color: rgb(255,190,190);
+    min-height: 70px;
+    width: 100%;
+    vertical-align: center;
+}
+
+#main-contact-form-display img {
+    width: 64px;
+    height: 64px;
+}
+
+form {
+    text-align: left;
+    width: 100%;
+    
+    label {
+        width: 100%;
+    }
+}
+
+.form-input {
+    border-radius: 10px;
+    border: none;
+    color: $text-color;
+    background-color: $background-color;
+    width: 100%;
+    resize: none;
+    padding: 10px;
+}
+
+.form-button{
+    border: none;
+    background-color: $menu-primary-color;
+    color: $menu-secondary-color;
+    font-family: $menu-font-family;
+    font-size: 1.5em;
+    padding: 10px 15px 10px 15px;
+}
+
+.form-button:hover {
+    background-color: $menu-secondary-color;
+    color: $menu-primary-color;
+}
+
+.form-input-validation-faillure {
+    border: 2px solid rgb(255,125,125);
+    background-color: rgb(255,190,190);
+}

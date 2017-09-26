@@ -1,5 +1,59 @@
 # Site settings
 url: "https://rackham.scoutscathedralevolcan.ca/"
+title: Poste Rackham - Groupe Scout Cathédrale-Volcan
+author: Poste Rackham
+logo: /img/logo-poste.png
+logo-groupe: /img/logo-groupe.png
+lang: fr_CA
+description: >
+  Site web du Poste Rackham, unité pionnier du Groupe Scout Cathédrale-Volcan.
+facebook:
+    publisher: PosteRackham
+    admins: scoutscathedralevolcan
+phone: 1 450-773-2351
+adress: 900-A av de l'École, CP 778 Saint-Hyacinthe J2S 7P5
+
+pagination-post-on-home-page: 3
+
+show-actu-on-menu: true
+actu-display-name: Actualité
+
+paginate: 6
+paginate_path: "/actu/page:num"
 
 # Build settings
 markdown: kramdown
+
+exclude: ["Gemfile","Gemfile.lock", "README.md", ".asset-cache"]
+
+collections:
+    sitepages:
+        output: true
+    home-sections:
+        output: false
+
+plugins:
+ - jekyll-sitemap
+ - jekyll-paginate
+ - jekyll-assets
+ - jekyll-seo-tag
+
+# SiteMap
+sitemap:
+    file: "/sitemap.xml"
+    exclude:
+        - "/feed.xml"
+    change_frequency_name: "change_frequency"
+    priority_name: "priority"
+
+assets:
+  compress:
+    js: true
+    css: true
+  prefix: "/"
+  assets:
+    - "js/*.js"
+    - "css/main.scss.liquid"
+  digest: true
+  sources:
+    - "_assets"
