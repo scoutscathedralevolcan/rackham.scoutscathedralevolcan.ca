@@ -45,19 +45,21 @@ section h2.section-heading {
     animation-duration:1s;
     -webkit-animation-fill-mode:both;
     animation-fill-mode:both;
-    line-height: 3;
+    line-height: 1;
+    padding: 35px;
     
     a {
+        padding: 10px;
+        display: inline-block;
         color: white;
         background-color: rgba(255,255,255,0.15);
-        padding: 10px;
         border: solid 2px #ffffff;
         text-decoration: none;
     }
     a:hover {
+        padding: 10px;
         color: black;
         background-color: rgba(255,255,255,0.85);
-        padding: 10px;
         border: solid 2px #ffffff;
         text-decoration: none;;
     }
