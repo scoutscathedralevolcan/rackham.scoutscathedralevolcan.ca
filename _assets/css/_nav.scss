@@ -1,18 +1,14 @@
 .navbar-logo {
-        max-width:74px;
-        max-height:74px;
-        padding-top: 5px;
-        padding-left: 15px;
-        padding-bottom: 5px;
-    }
-
-@media(min-width:$on-more-than-palm-width) {
-    .navbar-logo {
+    padding-top: 5px;
+    padding-left: 15px;
+    padding-bottom: 5px;
+    @media(min-width:$on-more-than-palm-width) {
         max-width:125px;
         max-height:125px;
-        padding-top: 5px;
-        padding-left: 15px;
-        padding-bottom: 5px;
+    }
+    @media(max-width:$on-more-than-palm-width) {
+        max-width:74px;
+        max-height:74px;
     }
 }
 
