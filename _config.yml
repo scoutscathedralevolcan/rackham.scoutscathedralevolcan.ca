@@ -47,13 +47,18 @@ sitemap:
     priority_name: "priority"
 
 assets:
+  source_maps: false
+  compression: true
   compress:
     js: true
     css: true
   prefix: "/"
-  assets:
-    - "js/*.js"
-    - "css/main.scss.liquid"
   digest: true
+  caching:
+    enabled: true
   sources:
     - "_assets"
+  assets:
+    - "js/*.js"
+    - "css/main.scss"
+
