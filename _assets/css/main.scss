@@ -2,9 +2,6 @@
 ---
 @charset "utf-8";
 
-$goal: 26000;
-$raised: 3000;
-
 // Our variables
 $base-font-family: 'Fira Sans', sans-serif;
 $secondary-font-family: 'Roboto', sans-serif;
@@ -47,7 +44,6 @@ $footer-text-color: rgba(255,255,255,1);
 $on-palm-width:           600px;
 $max-palm-width:    768px;
 $on-more-than-palm-width: 769px;
-$funding-progress: 11.5% ;
 
 
 // Using media queries with like this:

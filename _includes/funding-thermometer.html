@@ -1,18 +1,22 @@
 
-  <div id="goal">{{ site.data.funding.goal |bmoney_with_currency }}$</div>
+  <div id="goal"><span id="funding-goal">{{ page.funding.goal }}</span> $</div>
   <div id="glass">
-    <div id="progress">
+    <div id="funding-progress">
     </div>
   </div>
   <div class="goal-stat">
-    <span class="goal-number">{{site.data.funding.raised | times: 100 | divided_by: site.data.funding.goal }}%</span>
+    <span class="goal-number">{{page.funding.raised | times: 100 | divided_by: page.funding.goal }}%</span>
     <span class="goal-label">Financé</span>
   </div>
   <div class="goal-stat">
-    <span class="goal-number">{{site.data.funding.raised}}$</span>
+    <span id="funding-raised" class="goal-number">{{page.funding.raised}}</span>
     <span class="goal-label">Recueillis</span>
   </div>
   <div class="goal-stat">
+    <div id="funding-due-date" class="hidden">{{page.funding.dueDate}}</div>
     <span class="goal-number"><div id="countdown"></div></span>
     <span class="goal-label">Restant</span>
   </div>
+
+<!-- include countdown script -->
+{% asset js/fundingthermometer %}

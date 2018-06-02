@@ -1,4 +1,11 @@
-CountDownTimer('06/24/2018 11:59:59 PM', 'countdown');
+var fundingThermometerProgress = document.getElementById("funding-progress");
+var fundingGoal = document.getElementById("funding-goal").innerHTML;
+var fundingRaised = document.getElementById("funding-raised").innerHTML;
+var fundingDueDate = document.getElementById("funding-due-date").innerHTML;
+
+fundingThermometerProgress.style.width = String(parseInt(fundingRaised) * 100 / parseInt(fundingGoal)) + "%";
+
+CountDownTimer(fundingDueDate, 'countdown');
 
 function CountDownTimer(dt, id)
 {
