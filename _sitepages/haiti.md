@@ -4,7 +4,7 @@ title: Haïti
 permalink: /haiti/
 funding:
     goal: 12000
-    raised: 9500
+    raised: 10000
     dueDate: "07/04/2018 05:00:00 AM"
 ---
 
