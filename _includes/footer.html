@@ -9,7 +9,7 @@
 
       <div class="footer-col  footer-col-2">
         <ul class="contact-list icon-spin">
-          <li>Copyright © 2017 - {{ site.title }}</li>
+          <li>Copyright © {{ 'now' | date: "%Y" }} - {{ site.title }}</li>
           {% if site.github.username %}
           <li><a href="mailto:{{ site.email }}">
           <span class="icon icon--email">
