@@ -4,7 +4,7 @@ title: Haïti
 permalink: /haiti/
 funding:
     goal: 12000
-    raised: 10000
+    raised: 12000
     dueDate: "07/04/2018 05:00:00 AM"
 ---
 
@@ -35,4 +35,20 @@ De notre côté le programme de camp est en grande partie complété, et avons d
 
 Haïti on arive bientôt, il ne reste plus qu'un peu plus d'un mois avant le départ!
 
+### 2018-07-04
+
+!["Attente à l'aréoport avant le départ"](/img/haiti/haiti_attente_pre-depart.jpg)
+
+Hier nous avons pris le temps de tout valider les bagages et répartir le matériel de poste.
+
+#### 10h30
+Aujourd'hui c'était le grand départ, levé très tôt! Départ du local vers 5h15 pour se rendre à l'aéroport. Après une longue attente, nous avons finalement pris l'avions pour nous rendre à Port au Prince.
+
+#### 14h44
+Nous sommes sur le tarmac, arrivés, sains et saufs... Haïti nous voilà! Il fait très beau et chaud, mais effectivement, c'est plus sec ici... et il y a du vent!.
+
+#### 19h57
+Longue journée aujourd'hui, tout le monde est bien fatigué, il fait encore chaud par contre il n'y a pas trop de moustiques. (En fait, il semblerait qu'il n'y ait que Magaly qui se fasse piquer)...
+
+On prépare tranquillement nos bagages pour le départ à Hinche demain matin (prévu autour de 8h00).
 
