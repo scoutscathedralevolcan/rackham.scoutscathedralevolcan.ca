@@ -92,5 +92,96 @@ De retour au KEK assez tôt, un petit repos s'impose pour tous, puis c'est le d�
 
 Le match de soccer s'est terminé par une défaite du Brésil... Malgré la déception de plusieurs Haïtiens, certains autres sont très heureux alors qu'ils prennent plutôt pour l'Argentine... Bientôt le groupe partira avec Voudrais pour une petite excursion touristique dans Hinche alors que Maryse restera au KEK pour donner un cours d'anglais aux enfants. Comme quoi, il est possible de contribuer de plusieurs façon au bien-être et au développement d'une communauté.
 
+### 2018-07-07
 
+#### 21h45
 
+Étant donné la situation, je commence en disant que tout va bien et nos pionniers sont en sécurité et très bien encadré par les Haïtiens.
+
+À l'heure actuelle comme vous avez pu le constater le Canada vient d'émettre un avis d'éviter Haïti suite aux émeutes à Port au Prince et à Cap Haïtien. Ces émeutes sont associées à la hausse du prix de l'essence. Cette hausse a été suspendue et les choses devraient rentrer dans l'ordre dans les jours qui viennent.
+
+Nos Pionniers sont présentement à Hinche en sécurité et très bien encadré. À Hinche, il n'y a pas d'émeute à l'horizon, c'est très calme en fait.
+
+Tant que la situation ne sera pas calmée à Port au Prince, ils resterons à Hinche en sécurité, même si cela veut dire rester là jusqu'à la fin du voyage.
+
+Autrement, depuis leur arrivée, tout le monde a eu des maux de ventre, c'est à cause de bouffe qui est très différente. Il y a eu aussi quelques difficulté avec la chaleur ainsi qu'une petite difficulté pour ce qui est de boire suffisamment, au début, pour certain, mais tout est rentré dans l'ordre à présent.
+
+Il y a encore un peu de frustration car les choses ne se passent pas comme prévues et que certaines activités ont du être annulées. Malgré tout ils apprécient leur voyage, jusqu'à présent, et créent des liens avec les Haïtiens.
+
+Comme le réseau est capricieux, il est difficile de transmettre les photos et vidéos qui ont été prises... Elles seront mise en ligne dès que possible.
+
+Voilà, pas d'inquiétude à avoir pour l'instant, tout va bien, même si les choses ne se passent pas comme prévues... mais où serait le défit sinon?
+
+### 2018-07-08
+
+#### Message de Vincent Duval (Comissaire du district de la Montérégie - et notre formateur pour la formation pré-départ)
+
+Bonjour !
+
+Je viens d'avoir des nouvelles de Josiane et des pionniers en Haïti (je sors d'une semaine dans le bois, j'étais en retard sur quelques nouvelles). Selon ce que je comprends, ils ont eu quelques imprévus pas prévus (il y en a toujours) mais tout semble avoir été géré de main de maître par le poste et les Haïtiens qui les accompagnent.
+
+Que ce soit la maladie, les plans qui changent ou qui tombent à l'eau, ce sont des choses qui sont normales en Haïti, qu'on doit simplement apprendre à gérer. Ça tombe bien : chez les scouts, nous sommes les experts pour nous adapter et nous débrouiller dans plein de situations différentes. Nos valeureux voyageurs en font l'éclatante démonstration :)
+
+Le moral semble bon, ils forment une belle équipe avec les routiers de Port-au-Prince qui se sont joints à eux, ils ont déjà fait plusieurs activités et en planifient encore d'autres, alors malgré l'incertitude qui persiste encore quant à leur destination pour les prochains jours, ils vivent une expérience extraordinaire et c'est ça avant tout l'objectif de leur voyage.
+
+Ils sont pour l'instant à Hinche, à la maison scoute où j'ai moi-même séjourné trois semaines en 2015. Si vous avez des questions sur le pays, ce qu'ils y font plus précisément ou si vous voulez partager certaines inquiétudes, n'hésitez pas à me poser vos questions et ça me fera plaisir d'y répondre le plus précisément possible si ceux en Haïti sont trop occupés à vivre leur aventure pour vous répondre directement :)
+
+Bonne soirée !
+
+#### 20h00
+
+Très belle journée au Bassin Zim aujourd'hui... La fraîcheur de l'eau nous a fait le plus grand bien à tous. Pour la première fois Maryse sortait du KEK et pouvait voir les environs de Hinche puisque pour les deux derniers jours elle avait accepté de donner des cours d'anglais ici au KEK. Après le Bassin Zim, retour au KEK pour dîner et se reposer un peu, puis, visite de la place centrale de Hinche où c'était jour de foire... Musique haïtienne, danse, petits étals de vente de nourriture et de souvenirs, parties de foot (soccer) et de basket improvisées étaient au rendez-vous.
+
+Évidemment, notre présence sur place ne passe pas inaperçue... Spécialement celle de Majorie, que les jeunes haïtiennes trouve particulièrement belle et fascinante avec ses yeux foncés, ses cheveux foncés et droits et sa peau pâle. Quelle ne fut pas la surprise de notre groupe lorsqu'à notre plus grand étonnement, Majorie s'est laissé approchée puis touchée par le groupe de jeunes filles... Voici la preuve de ce très beau (et grand) moment de progression personnelle...
+
+!["Photo avec des Haïtien du groupe BP, Luc Panissod et Raul Sanchez Vaca"](/img/haiti/haiti-les-filles-trouvent-Majo-fascinante.jpg)
+
+### 2018-07-09
+
+Aujourd'hui c'est jour d'école... on apprend le créole
+
+Dictionnaire français / créole du matin:
+
+* Bonjour / Bonjou 
+* Bonsoir / Bonswa 
+* Comment vas-tu / Kòman ou ye 
+* Je vais bien / Mwen byen 
+* Comment t'appelle-tu / Kòman ou rele
+* Je m'appelle François Widline / Mwen rele François W.
+* Est-ce que tu as des frères et des sœurs / Eske ou gen frè ak sè
+* Je / mwen
+* Tu / ou
+* Il / li
+* Nous / nou
+* Vous / nou
+* Ils / yo
+* Comment a été la journée / Kòman jounen an te ye 
+* Comment a été ta journée / Kòman jounen w te ye
+* Contente d'être avec vous ce matin / mwen kontan avek nou maten an
+* Comment on dit .... en créole / Kòman you di .... an kreyòl
+* Vous aimez quoi comme nourriture / Ki manje nou renmen 
+* Je t'aime / Mwen renmen w
+* Combien de frère et de soeur as tu / Konbyen fré ak sè on genyen 
+* Beau frère / bò fré
+* Demi-frère / demi fré
+* Ma journée à été bien / jounenm te byen
+
+C'est un bon début...
+
+### 2018-07-10
+
+#### 10h00
+
+Pique-nique sur la place centrale de Hinche hier midi... Nous sommes nous-mêmes partis à pieds dans la ville pour se rendre au petit parc. Une fois là-bas, la décision fut prise de dîner sur place et donc, certains d'entre nous sont allés faire le marché. Au menu : chips Pringles, avocat, tomates, pain et viande (jambon) ainsi que jus de fruits, Gatorade et eau bien froide... de tout pour se faire de bons sandwichs quoi!
+
+Hier était une journée particulièrement chaude à Hinche. De retour de la place centrale, repos et jeux pour certains, en attendant notre souper. En soirée, bivouac improvisé autour de la table... c'était une très belle soirée!!
+
+#### 19h12
+
+19h12 Départ de la KEK vers 10h30 ce matin pour un retour sur la ville de Port-au-Prince... Zacharie, notre hôte, ainsi qu'Anthony, le chauffeur, ont pris la route très tôt pour venir nous chercher eux-mêmes à Hinche avec le camion de l'Association Nationale des Scouts d'Haïti... Pourquoi le camion plutôt que le bus? Car les logos scouts nous assureront plus de sécurité qu'un autobus qui nous afficherait comme touristes.
+
+La route fût longue et éreintante pour tous... près de 5 heures de route. Malgré tout, les paysages sont superbes, Haïtï est belle, la route se fait dans le plaisir... Vers mi-chemin, une pluie bienveillante nous surprend pour nous rafraîchir, elle ne dure que quelques instants... À l'approche de Port-au-Prince, la route est de plus en plus bondée, il y a beaucoup de trafic, il fait de plus en plus chaud, il y a beaucoup de poussière et des déchets brûlent dans les rues. De plus en plus, le groupe se referme sur lui-même, un silence pesant s'installe, notre tolérance s'amenuise... Heureusement, aussitôt arrivés au Centre National de l'ANSH, le soulagement se fait sentir, notre groupe retrouve le sourire et son esprit merveilleux... Nous sommes en sécurité, ce soir ce sera souper pizza, un lavage du corps s'impose ce soir - pas de passe droit et ce sera dodo très tôt pour tout le monde... Demain matin, nous reprenons la route, en bus cette fois, pour Marigot...
+
+En photo, l'illustration avec Jean-François du pourquoi nous devons tous passer par la douche... Oh et aussi notre nouvel ami le chat Pizza.
+
+!["Ce soir tout le monde va à la douche, vous pouvez voir pourquoi avec Jean-François"](/img/haiti/haiti-tous-a-la-douche.jpg) !["Notre nouvel ami Pizza le chat"](/img/haiti/haiti-notre-nouvel-ami-pizza-le-chat.jpg)
