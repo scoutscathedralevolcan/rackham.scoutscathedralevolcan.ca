@@ -185,3 +185,113 @@ La route fût longue et éreintante pour tous... près de 5 heures de route. Mal
 En photo, l'illustration avec Jean-François du pourquoi nous devons tous passer par la douche... Oh et aussi notre nouvel ami le chat Pizza.
 
 !["Ce soir tout le monde va à la douche, vous pouvez voir pourquoi avec Jean-François"](/img/haiti/haiti-tous-a-la-douche.jpg) !["Notre nouvel ami Pizza le chat"](/img/haiti/haiti-notre-nouvel-ami-pizza-le-chat.jpg)
+
+
+### 2018-07-10
+
+#### 9h07
+
+Aujourd'hui départ (en autobus !) vers Jacmel ! Quelques heures de route dans les montagnes nous attendent, mais nous découvrirons au bout la très belle ville de Jacmel, capitale artistique et culturelle d'Haïti !
+
+On devraient y passer une belle deuxième semaine de voyage!
+
+!["En bus vers Jacmel!"](/img/haiti/haiti-depart-pour-Jacmel.jpg)
+
+### 2018-07-11
+
+#### 17h56
+
+Finalement, note destination initiale de Marigot pour le camp du Centennaire mondial des Routiers, s'est transformée et plutôt que d'être avec une centaine de scouts routiers de partout en Haïti, nous sommes en petit camp sympathique à Jacmel (ville touristique) avec les 16 routiers de la Communauté (unité) qui nous accompagne... Cette décision a été prise essentiellement sur la capacité d'assurer notre sécurité dans un grand rassemblement.
+
+Pour nous, le changement ne nous a pas trop déçu car le côté positif de ce changement de plan est qu'il nous a été plus facile de faire connaissance et de tisser des liens avec notre groupe d'accueil.
+
+* Fabrice
+* Widline
+* Emmanuel
+* Esperanza
+* Christela
+* Magda
+* Bernadina
+* Robinson
+* Caelē
+* Guillaume
+* Moliēre
+* Nathanael
+* Ramses
+* Telicia
+* Jeff
+* et Zacharie (leur accompagnateur)
+
+sont tous plus gentils les une que les autres.
+
+Les affinités sont au rendez-vous, de grandes amitiés se tissent déjá entre certains québécois et haïtiens.
+
+Aujourd'hui aprēs une (longue) marche au soleil de 15 minutes haïtiennes (donc plutôt 1 heure québécoise!!!) nous sommes arrivés a une plage donnant sur la mer bleue et turquoise. L'eau salée... bien qu'un peu irritante pour notre peau fragilisée par le soleil, nous a revigorée et fait le plus grand bien. Il n'y a vraiment rien comme les vacances, l'été, le soleil et les jeux de la mer pour faire revenir tout le monde en enfance... et les enfants se sont bien amusés!!!
+
+Ce soir au menu pour le souper, notre repas préféré en Haïti : des marinades (petites boules de pâte frite) et du pikliz (une salade au chou épicé) avec du jus de fruits frais et surtout, glacé!!!
+
+Mais avant, une soirée d'animation. Chants, blagues, devinettes et fous rires sont au rendez-vous. Un beau mélange de québécois, de français, mais aussi, de créole haïtien.
+
+Le post de ce soir est plus long car en étant à cet endroit, il nous est plus difficile d'avoir accēs à internet (il est légērement capricieux), mais sachez que nous allons encore tous bien...
+
+Et oui, pour certains nous commençons à compter les jours... Ceux qui nous rapprochent du moment où nous allons retrouver nos êtres chers, mais surtout, ceux qui nous sépareront de nos nouveaux amis.
+
+La vie est courte, il faut la saisir, savoir en profiter au maximum et des expériences qu'elle nous offre...
+
+
+### 2018-07-13
+
+#### 8h53
+
+Après une première nuit d'orage à Haïti, tout le monde était debout très tôt ce matin pour prendre part à une activité de service... Il fallait défaire un talus de terre, couper des racines, pelleter la terre et ramasser les roches avant de déplacer le tout ailleurs sur le terrain, par brouette. Pendant notre séance de ramassage nous faisons la rencontre d'un scorpion (non nocif), d'un serpent (qui se sauve à notre vue) puis d'un petit lézard à queue bleue (full cute). Josiane s'est fait mordre par une fourmi (sans danger, c'est juste désagréable), Nicolas nous a fait profiter de son entraînement d'haltérophilie et Bastien a pu dépenser son trop plein d'énergie!!!
+
+Après un déjeuner bien mérité (car oui, ils ont travaillé sans avoir mangé!!!), la promesse d'une visite à la plage de Raymond-les-Bains et d'une balade en tap-tap pour s'y rendre nous réjouit.
+
+!["Activité de service dans le coin de Jacmel"](/img/haiti/haiti-service-jacmel.jpg)
+
+#### 18h09
+
+Un après-midi calme à la plage juste avant une crème glacé bien mérité (elle était vraiment bonne, selon plusieurs pion dont Bastien et Josiane, c'est la meilleur crème glacé de leur vie)
+
+!["À la plage Raymond-les-Bains"](/img/haiti/haiti-plage-de-Raymond-les-Bains-1.jpg)
+
+!["À la plage Raymond-les-Bains 2"](/img/haiti/haiti-plage-de-Raymond-les-Bains-2.jpg)
+
+
+### 2018-07-14
+
+#### 9h44
+
+Départ ce matin pour le bassin bleu à 9h...Oups on est en retard
+
+> Savez-vous qu'il y a une licorne sur l'armoirie du Canada? 
+>
+> (Araignée Déterminée)
+
+#### 10h21
+
+On part pour le bassin bleu!
+
+(Oh et en fait, le garçon au chandail orange s'appelle Robinson et il est juste... loufoque!!! Il cherche toujours à faire rire et à faire le fou.)
+
+!["Départ pour le bassin bleu"](/img/haiti/haiti-depart-bassin-bleu.jpg)
+
+
+### 2018-07-15
+
+Aujourd'hui est une journée un peu spéciale pour l'un des membre du poste...
+
+Voici Nicolas, tout fier, il est officiellement un membre du poste Rackham, puisqu'il vient de faire sa promesse autour d'un feu en Haïti.
+
+Félicitations Nicolas on est content que tu sois dans notre poste!
+
+!["Promesse de Nicolas"](/img/haiti/haiti-promesse-Nicolas.jpg)
+
+
+### 2018-07-16
+
+#### 10h47
+
+Notre camp de groupe tire à sa fin... On a passé une semaine formidable avec des Routiers exceptionnels! Il reste encore quelques préparatifs avant le retour à Port-au-Prince. Nous allons vous donner des nouvelles dès notre arrivée.
+
+Au revoir Jacmel!
